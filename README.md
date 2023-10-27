@@ -1,5 +1,6 @@
 # Recommender-System
 This project is part of the Applied Machine Learning course.
+ALS algorithms are trained on two datasets: 100k and 25Ml ratings 
 
 
 
@@ -7,6 +8,8 @@ This project is part of the Applied Machine Learning course.
 
 - Python
 
+# To get started
+- Clone the file to your local directory and run it from a terminal.
 
 ## Author
 
